@@ -3,7 +3,7 @@
 ## Project Abstract
 Foodies is an application that displays dining halls, cafés, coffee shops, food trucks, and restaurants in and around Temple. Students will be empowered to make informed choices about their next meal by having a plethora of information at the disposal of their fingertips. Available on Apple and Android, Foodies will provide congestion of the eatery that you’re visiting, display the amount of swipes you have remaining for the week as well as the remaining balance, and an option to favorite your preferred items. 
 
-![TEXT](Foodies UML.png)
+![TEXT](FoodiesUML.png)
 
 ## Project Relevance
 This proposal is related to the learning goals of the course because when designing such an application, object-oriented design, test-driven development, and a graphical user interface are amongst the various strategies we will use to create the application. These goals are vital to the career progression of a software engineer because it requires the collaborative effort of multiple people to create a successful, breathable, and functional program that others can use. TDD allows us to resolve the defects in our code to deliver new functionality. OOD allows us to reduce development time and increase reusability. 
