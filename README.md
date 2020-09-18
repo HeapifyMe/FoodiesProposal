@@ -12,7 +12,6 @@ This proposal is related to the learning goals of the course because when design
 With my skills in Photoshop and experience in android application development, I will be able to design and help implement some of the functionalities of the application. My ambition to learn Swift and willingness to work with others will support us in the endeavor of having a multi-platform application that works on a broad range of devices.
 
 ## Background
-_A URL reference to the project. Add text on how to build and run succesfully._ 
 
 <https://github.com/HeapifyMe/FoodiesProposal>
 
