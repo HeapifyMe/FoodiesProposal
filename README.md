@@ -14,7 +14,7 @@ With my skills in Photoshop and experience in android application development, I
 ## Background
 _A URL reference to the project. Add text on how to build and run succesfully._ 
 
-<https://github.com/temple-cis3296/MainPaystationLab>
+<https://github.com/HeapifyMe/FoodiesProposal>
 
 ***Building***
 
