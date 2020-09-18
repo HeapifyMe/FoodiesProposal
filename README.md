@@ -24,4 +24,4 @@ _A URL reference to the project. Add text on how to build and run succesfully._
 
 ## Required Resources
 - _Swift or Android Studio_
-- _Ambitious developerso_
+- _Ambitious developers_
