@@ -16,11 +16,13 @@ With my skills in Photoshop and experience in android application development, I
 <https://github.com/HeapifyMe/FoodiesProposal>
 
 ***Building***
-
+To build the project, simply clone the repository onto a local directory. After adding the 'HelloWorld' folder into your AndroidStudioProjects, you can open and build the project.
 
 **Running**
-
+Simply run the application in Android Studio and click onto the button to print a 'HelloWorld' statement. 
 
 ## Required Resources
 - _Swift or Android Studio_
 - _Ambitious developers_
+- _Some disk space and at least 3GB of RAM to run the Android emulator_
+
